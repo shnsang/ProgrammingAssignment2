@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 #=================================
 #
 # Caching the Inverse of a Matrix
@@ -35,7 +30,6 @@ makeCacheMatrix <- function(x = matrix()) {
              getinverse = getinverse)
 }
 
-## Write a short comment describing this function
 
 ## The cacheSolve function retrieves the inverse matrix from cache value stored
 ## in parent environment. If cache is empty, then computes and prints out matrix
